@@ -1,0 +1,5 @@
+TARGETNAME=debug
+TARGETTYPE=DRIVER
+
+SOURCES=debug.c
+
